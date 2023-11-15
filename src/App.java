@@ -1,5 +1,5 @@
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
         Book book1 = new Book("1984", "George Orwell", 1949);
         Book book2 = new Book("To Kill a Mockingbird", "Harper Lee", 1960);
 
